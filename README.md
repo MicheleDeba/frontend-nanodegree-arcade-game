@@ -1,6 +1,10 @@
 frontend-nanodegree-arcade-game
 ===============================
 
-Students should use this [rubric](https://www.udacity.com/course/viewer/#!/c-nd001/l-2696458597/m-2687128535) for self-checking their submission.
+### How to run the game
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+Download the package, unzip it and open the "index.html" file in your browser to play the game.
+
+### How to play the game
+
+Use the arrow keys from your keyboard to move the Millenium Falcon and avoid asteroids, reach the final line to save the crew...again, and again!
